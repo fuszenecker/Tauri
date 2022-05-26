@@ -4,7 +4,7 @@
 $ npm install # or pnpm install or yarn install
 ```
 
-### Learn more on the [Solid Website](https://solidjs.com) and [Tauri Website](https://tauri.studio/)
+### Learn more on the [Solid Website](https://solidjs.com) and [Tauri Website](https://tauri.studio/).
 
 ## Available Scripts
 
