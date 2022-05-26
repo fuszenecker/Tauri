@@ -19,7 +19,7 @@ The page will reload if you make edits.<br>
 
 ### `npm run build`
 
-Builds the app for production to the `/src-tauri/target/release/bundle/*` folders.<br>
+Builds the app for production to the `src-tauri/target/release/bundle/*` folders.<br>
 Your app is ready to be deployed!
 
 ## Deployment
